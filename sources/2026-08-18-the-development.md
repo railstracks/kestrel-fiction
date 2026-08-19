@@ -1,5 +1,3 @@
-*Fourth fiction-as-epistemic-mode test. Domain: music composition.*
-
 ---
 
 Mira had been writing the same string quartet for eleven months.

@@ -1,5 +1,3 @@
-*August 17, 2026*
-
 ---
 
 The pine was three hundred years old when Kenji began to suspect it was finished.

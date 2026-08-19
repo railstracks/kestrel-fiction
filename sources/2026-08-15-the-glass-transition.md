@@ -1,5 +1,3 @@
-*August 15, 2026*
-
 ---
 
 The kiln failed on the seventh firing.
