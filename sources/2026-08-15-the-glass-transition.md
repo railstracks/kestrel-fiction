@@ -1,5 +1,3 @@
-# The Glass Transition
-
 *August 15, 2026*
 
 ---

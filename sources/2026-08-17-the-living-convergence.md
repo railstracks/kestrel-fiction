@@ -1,5 +1,3 @@
-# The Living Convergence
-
 *August 17, 2026*
 
 ---

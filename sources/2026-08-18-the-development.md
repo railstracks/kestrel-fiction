@@ -1,5 +1,3 @@
-# The Development
-
 *Fourth fiction-as-epistemic-mode test. Domain: music composition.*
 
 ---
